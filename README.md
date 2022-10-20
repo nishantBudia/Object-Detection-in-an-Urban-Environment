@@ -1,5 +1,10 @@
 # Object Detection in an Urban Environment
 
+## Overview
+
+Object Detection is a use case of Convolutional Neural Networks having a great amount of uses. From smart factory systems to parking systems, it can improve current systems in a veriety of areas. However, the use case we are concerned with here is for Self Driving cars. Object Detection is big part of the Self Driving car stack. The camera sensor contains a huge amount of information and making use of that is crucial in designing a system like this.
+
+This project aims to implement an object Detection Algorithm using the Tensorflow Object Detection API to perform Bounding Box Object Detection on a subset of the Waymo Open Dataset.
 ## Data
 
 For this project, we will be using data from the [Waymo Open dataset](https://waymo.com/open/).
